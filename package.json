@@ -1,6 +1,9 @@
 {
   "dependencies": {
-    "version": "0.1.2",
+     "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  }
     "discord.js": "^12.5.3",
     "ffmpeg-static": "^4.3.0",
     "fs": "*",
