@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "version": "0.1.2",
     "discord.js": "^12.5.3",
     "ffmpeg-static": "^4.3.0",
     "fs": "*",
