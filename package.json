@@ -9,6 +9,7 @@
     "fs": "*",
     "opusscript": "^0.0.8",
     "ytdl-core": "^4.5.0"
+
   },
   "scripts": {
     "start": "node index.js"
